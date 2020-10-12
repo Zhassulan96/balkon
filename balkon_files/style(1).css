@@ -1,0 +1,241 @@
+
+html{overflow-x: hidden; line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}section{padding:45px 0}body{margin:0;font-family:'Montserrat'}article,aside,footer,header,nav,section{display:block}h1{font-size:2em;margin:.67em 0}figcaption,figure,main{display:block}figure{margin:1em 40px}hr{box-sizing:content-box;height:0;overflow:visible}pre{font-family:monospace,monospace;font-size:1em}a{background-color:transparent;-webkit-text-decoration-skip:objects}abbr[title]{border-bottom:none;text-decoration:underline;text-decoration:underline dotted}b,strong{font-weight:inherit;font-weight:bolder}code,kbd,samp{font-family:monospace,monospace;font-size:1em}dfn{font-style:italic}mark{background-color:#ff0;color:#000}small{font-size:80%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sub{bottom:-.25em}sup{top:-.5em}audio,video{display:inline-block}audio:not([controls]){display:none;height:0}img{border-style:none}svg:not(:root){overflow:hidden}button,input,optgroup,select,textarea{font-family:sans-serif;font-size:100%;line-height:1.15;margin:0}button,input{overflow:visible}button,select{text-transform:none}button,html [type="button"],/* 1 */
+[type="reset"],[type="submit"]{-webkit-appearance:button}button::-moz-focus-inner,[type="button"]::-moz-focus-inner,[type="reset"]::-moz-focus-inner,[type="submit"]::-moz-focus-inner{border-style:none;padding:0}button:-moz-focusring,[type="button"]:-moz-focusring,[type="reset"]:-moz-focusring,[type="submit"]:-moz-focusring{outline:1px dotted ButtonText}fieldset{padding:.35em .75em .625em}legend{box-sizing:border-box;color:inherit;display:table;max-width:100%;padding:0;white-space:normal}progress{display:inline-block;vertical-align:baseline}textarea{overflow:auto}[type="checkbox"],[type="radio"]{box-sizing:border-box;padding:0}[type="number"]::-webkit-inner-spin-button,[type="number"]::-webkit-outer-spin-button{height:auto}[type="search"]{-webkit-appearance:textfield;outline-offset:-2px}[type="search"]::-webkit-search-cancel-button,[type="search"]::-webkit-search-decoration{-webkit-appearance:none}::-webkit-file-upload-button{-webkit-appearance:button;font:inherit}details,/* 1 */
+menu{display:block}summary{display:list-item}canvas{display:inline-block}template{display:none}[hidden]{display:none}
+ li{list-style:none}header{background:#293e67;    width: 100%;    position: fixed;    z-index: 102;
+    box-shadow: 0 5px 6px 0 rgba(0,0,0,0.16),0 1px 10px 0 rgba(0,0,0,0.12)!important;
+}.navbar{margin-bottom:0}.navbar-default .navbar-nav>li>a{color:#f76107}.navbar-default .navbar-collapse,.navbar-default .navbar-form{border:none}.navbar-default{background:none;border:none}.nav>li>a{padding:10px 5px}header ul li{display:inline-block;margin:0 20px}header ul li a{color:#fff;font-weight:700;line-height:68px;transition:.3s ease}header ul li a:hover{text-decoration:none;opacity:.8;color:#fff;border-bottom:2px solid #FF7E00;padding:11px 0 9px}.logo img{height:40px}.s1{background:#000 url(../img/Lodzhii-i-balkony_001.jpg) no-repeat;-webkit-background-size:cover;background-size:cover;padding:0}.overlay{background:rgba(0,0,0,0.3);padding-bottom:45px}.head-h1{color:rgb(255, 255, 255);font:600 22px/56px Montserrat;text-transform:uppercase;margin-top:115px}.head-h2{color:#fff;font:400 32px/56px Montserrat}.head-block{border:15px solid rgba(255,255,255,0.33);padding:25px;background:rgba(0,0,0,0.5);border-radius:3px;-webkit-box-shadow:0 0 30px 0 rgba(255,255,255,0.26);-moz-box-shadow:0 0 30px 0 rgba(255,255,255,0.26);box-shadow:0 0 30px 0 rgba(255,255,255,0.26);height:457px}.s1 ul li{display:inline-block}.head-opis{font:600 16px/26px Montserrat;margin-top:25px;color:#fff}.block-form{border:15px solid rgba(255,255,255,0.33);padding:25px 5px;color:#fff;background:rgba(255,255,255,0.69);color:#000}.form-zag{font-size:20px;margin-bottom:1px}.form-step{font-size:18px;margin-bottom:10px}.input{width:80%;margin:10px 0;padding:8px;border-radius:3px}.submit{border:none;background:#DA2F35;font:600 22px/26px Montserrat;color:#fff}.submit:hover{-webkit-box-shadow:0 0 43px 0 rgba(218,47,53,1);-moz-box-shadow:0 0 43px 0 rgba(218,47,53,1);box-shadow:0 0 43px 0 rgba(218,47,53,1);transition:.3s;transform:scale(1.1)}.free{font:700 16px/22px Montserrat}.section-zag{font:500 32px/42px Montserrat;margin-top:50px}.fff{color:#fff}.s2{background:url(../img/g2.jpg) no-repeat;-webkit-background-size:cover;background-size:cover;background-attachment:fixed;position:relative;padding:0}.polza{font-size:22px;margin-top:50px;margin-bottom:50px}.s2-list{font:500 18px/38px Montserrat}.ruler{position:relative;bottom:158px;z-index:1}.inline-form .input{width:30%;margin-left:25px}.s2-block{background:#fff;border-radius:5px;color:#000;position:relative;bottom:198px}
+.gray-block li{display:inline-block; padding-left: 45px;}.block-desc{font:500 26px/38px Montserrat;padding-top:45px}.small-desc{font:300 18px/38px Montserrat;margin-bottom:45px}.bold{    margin-top: 60px;font:700 20px/30px Montserrat}
+.gray-block{background:#F5F5F5;padding:45px;font:400 18px/28px Montserrat}.comments h1{margin:40px 0 30px;font-size:30px;font-family:"Montserrat";color:#000;text-transform:uppercase}.jcarousel-wrapper{margin:60px auto 30px;position:relative}.jcarousel{position:relative;overflow:hidden;width:100%;margin:0 auto}.jcarousel ul{width:20000em;position:relative;list-style:outside none none;margin:0;padding:0}.jcarousel li{width:1000px!important;float:left;box-sizing:border-box}.jcarousel img{display:block;max-width:100%;height:auto!important}.cis{float:left;width:740px;margin-left:19px}.cis h1{text-align:left;margin:0;font-size:24px;font-family:"bold"}.cis span{font-size:14px}.cis p{border:4px solid #f2f2f2;padding:20px;position:relative;margin:10px 0}.cis p img{position:absolute;left:-12px;top:10%}.clear{clear:both}.c1{width:241px;float:left}.jcarousel-control-prev{border:3px solid #dd1e1e;width:186px!important;height:52px!important;padding:5px;color:#dd1e1e!important;margin-top:60px;float:left}.jcarousel-control-next{border:3px solid #dd1e1e;width:186px!important;height:52px!important;padding:5px;color:#dd1e1e!important;margin-top:60px;margin-left:20px;float:left}.jc11{cursor:pointer}.jc11:hover{background-color:#dd1e1e;transition:all .5s ease 0;color:#fff!important}.countDiv{display:inline-block;width:39px;height:2.6em;position:relative}.jcarousel-wrapper{margin:60px auto 30px;position:relative}.jcarousel{position:relative;overflow:hidden;width:100%;margin:0 auto}.jcarousel ul{width:20000em;position:relative;list-style:outside none none;margin:0;padding:0}.jcarousel li{width:1000px!important;float:left;box-sizing:border-box}.jcarousel img{display:block;max-width:100%;height:auto!important}.jcarousel-control-prev,.jcarousel-control-next{width:23px;height:41px;text-align:center;color:#fff;text-decoration:none}.jcarousel-control-prev{left:260px;background:transparent url(leftarr.png) no-repeat scroll center center}.jcarousel-control-next{right:387px;background:transparent url(rightarr.png) no-repeat scroll center center}.timer{margin-top:40px;margin-bottom:20px;text-align:left;color:#fdfdfd}.comments{width:1000px;margin:0 auto;padding:40px 0 142px}.s3{padding:50px 0 0}.rew-block{background:#F5F5F5;padding:45px;border:1px solid #989898;border-top-right-radius:45px;border-bottom-right-radius:45px;border-bottom-left-radius:45px;margin-bottom:45px}
+.rew-block .photo{float:left}.quotes{font-size:125px;color:#6d6d6d;margin-top:-45px}.rew{margin-top:-85px;margin-left:200px;font:400 16px/22px Montserrat}
+.gallery{float:left;width:40%;margin-bottom:50px}
+.right-gallery{width:16.3%;float:left}.right-gallery ul li{margin-bottom:10px}
+.navbar-nav {
+    margin: 14.5px auto 0 auto;
+}
+ .logo{
+float: left;
+width: 40%;}
+.opis1 { 
+    font: 400 18px/18px Montserrat;
+    display: block;
+    float: left;
+    width: 40%;
+    margin-left:30px;
+}
+.proekt{text-indent:1.5em;font-weight:600;font-size:22px;margin-bottom:20px}.orange{color:orange}.not{color:#000;}.lightbox{position:fixed;overflow:hidden;z-index:9999;width:0;height:0;text-align:center;top:0;left:0;background:rgba(0,0,0,0.8)}.lightbox img{width: 84%;
+    /* position: fixed; */
+    max-width: 600px;
+    max-height: 602px;
+    margin: 5% auto;
+opacity:0;border:1px solid #4D4D4D;-moz-box-shadow:0 0 10px rgba(0,0,0,0.8);-webkit-box-shadow:0 0 10px rgba(0,0,0,0.8);box-shadow:0 0 10px rgba(0,0,0,0.8);-webkit-transition:opacity 500ms ease-in;-moz-transition:opacity 500ms ease-in;transition:opacity 500ms ease-in}.lightbox:target{width:auto;height:auto;bottom:0;right:0;outline:none}.lightbox:target img{opacity:1}.thumb img{margin:2%;box-shadow:1px 2px 10px rgba(0,0,0,0.6);-webkit-box-shadow:1px 2px 10px rgba(0,0,0,0.6);-moz-box-shadow:1px 2px 10px rgba(0,0,0,0.6)}.s3 h2,.s4 h2,.s5 h2{font:500 36px/38px Montserrat;text-align:center;margin-bottom:45px}.orange-line{width:100%;height:3px;background:orange;margin-bottom:45px}.orange-line:last-child{margin-bottom:0}.butt{border:none;width:30%;margin:0 auto 45px;background:#DA2F35;font:600 22px/42px Montserrat;color:#fff;display:block}.butt:hover{-webkit-box-shadow:0 0 43px 0 rgba(218,47,53,1);-moz-box-shadow:0 0 43px 0 rgba(218,47,53,1);box-shadow:0 0 43px 0 rgba(218,47,53,1);transition:.3s;transform:scale(1.1);text-decoration:none;color:#fff}.s4{background:#F5F5F5}.s4 .butt,.s5 .butt{width:100%;font-weight:300;text-align:center}.title1{overflow:hidden;text-align:center;font-size:30px}.title1 span{display:inline-block;vertical-align:middle}.title1:before,.title1:after{content:"";display:inline-block;vertical-align:middle;width:50%;height:2px;background-color:#b4b4b4;position:relative}.title1:before{margin-left:-100%;left:-15px}.title1:after{margin-right:-100%;right:-15px}.price{text-align:center;font-size:18px;font-weight:600}.s6 img{margin:auto}.s6{font:400 20px/22px Montserrat}.shema{background:url(../img/gray_bg.png) #f5f5f5;padding:0 0 30px;margin-top:60px}.h2border{margin-bottom:-90px;margin-top:78px}.h2border h2{margin-top:-30px;text-align:center}.h2border h2 span{background:#fff;border-radius:57px;box-shadow:0 5px 5px -3px #ccc;display:inline-block;padding:6px 35px}.shema .steps{padding-top:90px}.shema .steps ul{margin-left:-6%}.shema .steps ul li{float:left;width:44%;margin-left:6%;margin-bottom:60px}.shema .steps ul li .in{padding:15px 20px;border:4px solid #a0a0a0;border-radius:15px;box-shadow:0 4px 8px rgba(0,0,0,0.2);height:260px;position:relative}.shema .steps ul li.or .in{border:4px solid #ff7e00}.shema .steps ul li .num{font-size:96px;line-height:80px;color:#a0a0a0;float:left;width:17%}.shema .steps ul li .text{float:left;width:79%;padding-top:15px}.shema .steps ul li .title{font-size:25px;line-height:31px;font-family:'Pt Sans',sans-serif}.shema .steps ul li .descr{font-size:15px;line-height:22px;margin-top:10px}.shema .steps ul li.or .num{color:#ff7e00}.shema .steps ul li .line2{bottom:10px;position:absolute;width:93%}.shema .steps ul li .button{font-size:18px;line-height:17px;padding:10px 20px}.shema .steps ul li .phone{border-radius:50px;box-shadow:0 0 0 3px #e6e6e6;font-size:17px;padding:8px 20px;white-space:nowrap}.shema .steps ul li.step2 .descr{width:67%}.shema .steps ul li.step2 img{bottom:0;position:absolute;right:-10px}.shema .steps ul li.step3 .descr{width:81%}
+.shema .steps ul li.step3 img{bottom:-35px;position:absolute;right:-15px}.shema .steps ul li.step4 .descr{width:50%}.shema .steps ul li.step4 img{bottom:-19px;position:absolute;right:13px}.shema .steps ul li.step5 img{bottom:-18px;position:absolute;right:-50px}.shema .steps ul li.step6 img{bottom:0;position:absolute;right:0}.block{margin-left:auto;margin-right:auto;max-width:960px;min-width:100px;padding:0 20px;position:relative}.form-bottom{margin-top:180px}.block{margin-left:auto;margin-right:auto;max-width:960px;min-width:100px;padding:0 20px;position:relative}.main-form{border:10px solid #ff7e00;padding:20px 30px;height:400px}.main-form .left{float:left;width:55%;margin-right:5%}.main-form .left .block-title{font-size:50px;line-height:54px;margin-top:10px;font-size:50px;line-height:54px;margin-top:10px}.main-form .left .block-descr{font-size:23px;line-height:32px;margin-top:20px}.main-form .right{float:left;width:40%}.main-form .right .page-form{border:5px solid #ff7e00;border-radius:8px;padding:20px;background:url(../img/gray_bg.png) #f5f5f5;margin-top:-60px;margin-bottom:-60px;box-shadow:0 0 0 5px rgba(255,255,255,0.8),0 4px 8px rgba(0,0,0,0.6)}.main-form .right .page-form .form-title{font-size:29px;line-height:32px}.main-form .right .page-form .form-descr{font-size:17px;line-height:20px}.inpTitle{color:#555;font-size:15px;margin-bottom:5px;margin-top:20px}input[type="text"],input[type="search"],input[type="password"],input[type="email"],textarea{background:#fff;border:1px solid #e6a76a;border-radius:3px;box-shadow:0 3px 1px rgba(255,126,0,0.15) inset,0 1px 3px rgba(0,0,0,0.11);font-size:18px;line-height:normal;outline:medium none;padding:6px 2%;font-family:'Open Sans',sans-serif;width:96%}.mt20{margin-top:20px}.main-form .right .page-form .button{font-size:18px;padding:15px 5%}.button{background-image:url(../img/btn_def.png);background-position:center bottom;background-repeat:repeat-x;background-color:#66b2ff;background-size:100% 100%;border-radius:3px;box-shadow:0 -1px 1px 0 rgba(0,0,0,0.2) inset,0 1px 0 0 rgba(255,255,255,0.52) inset,0 0 0 3px rgba(5,129,255,0.43);font-size:24px;padding:15px 55px;cursor:pointer;display:inline-block;text-decoration:none;text-align:center;white-space:nowrap;color:#FFF;line-height:22px}#page{width:100%;height:100%;position:absolute}*{margin:0;box-sizing:border-box}.wrapper{width:900px;height:600px;position:absolute;left:50%;top:50%;transform:translate3d(-50%,-50%,0);overflow:hidden}.before,.after{width:100%;height:100%;background-repeat:no-repeat;background-color:#fff;background-size:cover;background-position:center;position:absolute;top:0;left:0;pointer-events:none;overflow:hidden}.after{width:125px}.scroller{width:50px;height:50px;position:absolute;left:100px;top:50%;transform:translateY(-50%);border-radius:50%;background-color:transparent;opacity:.9;pointer-events:auto;cursor:pointer}.scroller:hover{opacity:1}.scrolling{pointer-events:none;opacity:1}.scroller__thumb{width:100%;height:100%;padding:5px}.scroller:before,.scroller:after{content:" ";display:block;width:7px;height:9999px;position:absolute;left:50%;margin-left:-3.5px;z-index:30;transition:.1s}.scroller:before{top:100%}.scroller:after{bottom:100%}.scroller{border:5px solid #fff}.scroller:before,.scroller:after{background:#fff}.block-photo-group{width:87px;height:32px;background:orange;border-bottom-right-radius:10px;border-top-left-radius:10px;text-align:center;font:400 16px/32px Montserrat;color:#fff;position:absolute}.our-worg-zag{text-transform:uppercase;font:600 26px/32px Montserrat;border-bottom:2px solid orange;display:inline-block}.our-work-desc{margin-top:45px;font:400 14px/32px Montserrat;width:580px}.s7 ul.inline{margin-top:80px}ul.inline>li{display:inline-block;list-style:none}body{margin:0}#contenedor{background:url(http://josetxu.com/demos/img/bg_before_after.jpg)no-repeat center center;height:73.5vw;margin:1vw auto;max-height:750px;max-width:1000px;overflow:hidden;width:98vw}#contenedor figure{background-image:url(../img/posle.jpg);background-size:cover;font-size:0;height:100%;margin:0;position:relative;width:100%}#separador{background-image:url(../img/do.jpg);background-size:cover;bottom:0;border-right:5px solid rgba(255,255,255,0.7);box-shadow:10px 0 15px -13px #000;height:100%;max-width:98.6%;min-width:.6%;overflow:visible;position:absolute;width:50%;animation:figure 2s 1 normal ease-in-out .1s;-webkit-animation:figure 2s 1 normal ease-in-out .1s}input#deslizador{-moz-appearance:none;-webkit-appearance:none;border:none;background:transparent;cursor:col-resize;height:100vw;left:0;margin:0;outline:none;padding:0;position:relative;top:-100vw;width:100%}input#deslizador::-moz-range-track{background:transparent}input#deslizador::-ms-track{border:none;background-color:transparent;height:100vw;left:0;outline:none;position:relative;top:-100vw;width:100%;margin:0;padding:0;cursor:col-resize;color:transparent}input#deslizador::-ms-fill-lower{background-color:transparent}input#deslizador::-webkit-slider-thumb{-webkit-appearance:none;height:100vw;width:.5%;opacity:0}input#deslizador::-moz-range-thumb{-moz-appearance:none;height:100vw;width:.5%;opacity:0}input#deslizador::-ms-thumb{height:100vw;width:.5%;opacity:0}input#deslizador::-ms-tooltip{display:none}#separador::before{background:url(http://josetxu.com/html5/beforeafter-responsive/flechas.png) no-repeat scroll 0 center transparent;background-size:contain;content:" ";float:right;height:100%;margin-right:-34px;position:relative;top:0;width:64px}@keyframes figure{0%{width:0}50%{width:80%}100%{width:50%}}@-webkit-keyframes figure{0%{width:0}50%{width:80%}100%{width:50%}}.modal .input{width:90%;margin:auto;display:block}
+.h2 { 
+    margin-bottom: 20px;} 
+.tab-info p{
+    font-size: 14px;
+    margin: 20px 0;
+}
+
+.tab-info h4 {
+    font-size: 23px;
+    margin-bottom: 30px;}
+
+.tab-info a{
+    text-align: center;
+    font-size: 15px;
+    float: right;
+}
+.tab-image img{
+width:80%;
+}
+.update-info-w3l{
+    margin: 50px;
+    border-bottom: 2px solid black;
+}
+#spec{
+display:none;
+}
+@media screen and (max-width: 1024px){
+
+
+.navbar-right {display:none}
+}
+   .opis1 td{ border: 1px solid #ddd;} .opis1 table{ text-align: center;border: 1px solid #ddd;}
+@media screen and (max-width: 768px){
+ 
+
+.yout{
+width:100%!important;
+
+
+}
+.contact .email { 
+    font-size: 17px!important;
+}
+.contact {
+width:100%!important;
+    height: 507px!important;
+}
+
+#spec{
+display:block!important;
+}
+
+
+.opis1 { 
+    font: 400 14px/14px Montserrat;
+    display: block;
+    float: left; 
+    margin: 10px;
+    margin-top: 0;
+}
+
+.bold {
+      margin-top: 0px;
+    font: 700 9px/11px Montserrat;
+}
+
+.update-info-w3l{
+        margin: 30px 0;
+}
+.tab-info a { 
+    width: 100%;
+}
+.tab-info h4 {
+    font-size: 18px;
+    text-align: center;
+}
+.tab-info p {
+    font-size: 14px;}
+.title11 { 
+    font-size: 14px;}
+
+.hidden-xss{
+    position: relative!important;
+    margin: 0!important;
+}
+
+ 
+    .our-work-desc{width:auto}
+    .head-h1{font:600 30px/38px Montserrat}.head-h2{font:600 20px/28px Montserrat}
+    .head-block{height:auto}
+    .ruler{position:static}
+    .inline-form .input{width:80%}
+    .overlay{padding-bottom:0}
+    .s1 ul{
+        margin-bottom: 20px;
+    }
+.b-carousel-gallery .b-carousel__controls {
+width: 250px!important;
+}
+    
+    .gray-block li{
+        display: block;
+        padding-left: 0;
+    }
+    .s2-block{
+        position: static;
+    }
+    .shema .steps ul li.step5 img{
+        bottom: 25px;
+        right: 40px;
+    }
+    .shema .steps ul li .num{
+        font-size: 56px;
+    }
+    .shema .steps ul li.step4 .descr{
+        width: 100%;
+    }
+    .shema .steps ul li.step4 img{
+        bottom: 25px;
+        height: 120px;
+        right: 63px;
+        
+    }
+    
+    .shema .steps ul li.step3 img {
+    position: absolute;
+    right: 65px;
+    height: 100px;
+        
+    }
+    .shema .steps ul li .in{
+        height: 350px;
+    }
+    .shema .steps ul li.step2 img{
+        height: 86px;
+        right: 10px;
+    }
+    .right-gallery{width:20%;}
+	.right-gallery ul {
+		padding-left: 19px;}
+    .gallery{width:30%}.rew-block{height:auto}.thumb img{margin:0;width:100%}
+    .rew-block .photo{float:none;
+    text-align: center;}
+    .rew{margin-top:0;margin-left:0}.quotes{display:none}.butt{width:80%;font-size: 14px;}.b-carousel-gallery .b-carousel__controls{width:250px}.shema .steps ul li{width:100%}}.tab{cursor:pointer;position:relative;text-align:center;border-radius:5px;padding:.4em;width:20em;height:21em;background-color:#fff;box-shadow:0 5px 15px 0 rgba(0,0,0,0.3);margin-bottom:3em}.clear{clear:both}.icon-sprite,.icon-balcony-b-checked,.b-presentation__type.active .icon-balcony,.icon-balcony-b,.b-presentation__type .icon-balcony,.icon-balcony-l-checked,.b-presentation__type.active .icon-lodjiya,.icon-balcony-l,.b-presentation__type .icon-lodjiya,.icon-balcony-l4-checked,.b-presentation__type.active .icon-lodjiya4,.icon-balcony-l4,.b-presentation__type .icon-lodjiya4,.icon-btn-b,.icon-btn-big,.btn-big,.icon-btn-orang,.btn,.icon-btn-smal_hover,.icon-btn-smal_hoverl,.icon-btn-small,.btn-small,.icon-btn-zv,.btn-zv,.icon-car,.b-region-map .b-region__inform .b-area__block .infa .infa_block .icon .car,.icon-carousel-next,.b-carousel-akciya .b-carousel__next.icon-next,.b-carousel-gallery .b-carousel__next.icon-next,.icon-carousel-prev,.b-carousel-akciya .b-carousel__prev.icon-prev,.b-carousel-gallery .b-carousel__prev.icon-prev,.icon-ceni-phone,.b-ceni .b-form__input__placeholder:before,.icon-clock,.b-region-map .b-region__inform .b-area__block .infa .infa_block .icon .clock,.icon-countdown-btn,.b-countdown-akciya .b-countdown__btn__link,.b-carousel__item .b-countdown__btn__link,.icon-dogovor,.b-region-map .b-region__inform .b-area__block .infa .infa_block .icon .dogovor,.icon-float-pin,.b-float__menu .ic-pin:before,.icon-float-pin_checked,.b-float__menu .ic-pin.active:before,.icon-footer-director,.b-footer__info__director:before,.icon-form-close,.b-form__close,.b-oldform_ajax .b-oldform__closer,.icon-form-kalk-w_active,.icon-form-kalk,.b-oldform__menu .form-kalk:after,.icon-form-map-w_active,.icon-form-map,.b-oldform__menu .form-map:after,.icon-form-phone-w_active,.icon-form-phone,.b-oldform__menu .form-phone:after,.icon-form-ruler-w_active,.icon-form-ruler,.b-oldform__menu .form-ruler:after,.icon-header-balconi-checked,.icon_header_balconi.active:before,.icon_header_balconi.active:hover:before,.icon-header-balconi,.icon_header_balconi:before,.icon-header-clock,.icon_header_clock:before,.icon-header-dveri-checked,.icon_header_dveri.active:before,.icon_header_dveri.active:hover:before,.icon-header-dveri,.icon_header_dveri:before,.icon-header-kotedji-checked,.icon_header_kotedji.active:before,.icon_header_kotedji.active:hover:before,.icon-header-kotedji,.icon_header_kotedji:before,.icon-header-okna-checked,.icon_header_okna.active:before,.icon_header_okna.active:hover:before,.icon-header-okna,.icon_header_okna:before,.icon-info-ugl,.b-region-map .b-region__map_info:before,.icon-otzivi-showmore,.b-profiles__tabs .b-tabs__controlls__prev,.b-profiles__tabs .b-tabs__controlls__next,.b-otzivi__showmore .showmore__link:before,.icon-profiles-dolgo,.icon-pr-dolgo:before,.icon-profiles-econom,.icon-pr-econom:before,.icon-profiles-rehau,.b-profiles__tabs .b-tabs__block__item__img.icon-rehau:before,.icon-profiles-teplo,.icon-pr-teplo:before,.icon-profiles-zvuk,.icon-pr-zvuk:before,.icon-questions-phone,.b-questions__phone:before,.icon-seo-grand,.b-footer__seo-grand,.icon-svyaz-calc-black,.icon-svyaz-calc,.b-svyaz__form__menu .ic-calc:before,.b-float__menu .ic-calc:before,.icon-svyaz-calc_checked,.b-svyaz__form__menu .form__menu__item.active .ic-calc:before,.b-float__menu .ic-calc.active:before,.icon-svyaz-line-black,.icon-svyaz-line,.b-svyaz__form__menu .ic-line:before,.b-float__menu .ic-line:before,.icon-svyaz-line_checked,.b-svyaz__form__menu .form__menu__item.active .ic-line:before,.b-float__menu .ic-line.active:before,.icon-svyaz-phone-black,.icon-svyaz-phone,.b-svyaz__form__menu .ic-phone:before,.b-float__menu .ic-phone:before,.icon-svyaz-phone_checked,.b-svyaz__form__menu .form__menu__item.active .ic-phone:before,.b-float__menu .ic-phone.active:before,.icon-truba,.b-float__menu .b-header__contacts__phone:before,.b-fancy-form .b-form form .b-header__contacts__phone:before,.icon-windows-2-1,.b-presentation__type.active .icon-2st,.icon-windows-2-2,.b-presentation__types .icon-2st,.icon-windows-3-1,.b-presentation__type.active .icon-3st,.icon-windows-3-2,.b-presentation__types .icon-3st,.icon-windows-b-1,.b-presentation__type.active .icon-balc,.icon-windows-b-2,.b-presentation__types .icon-balc,.icon-windows-factory,.icon-windows-hand,.icon-windows-medal,.icon-windows-montaj,.b-presentation__advantage__skew .icon-adv-montaj,.icon-windows-percents,.b-presentation__advantage__skew .icon-percents,.icon-windows-rehau,.b-presentation__advantage__skew .icon-rehau,.icon-zamer,.b-region-map .b-region__inform .b-area__block .infa .infa_block .icon .zamer{background-image:url(../img/icon-s8a56b42951.png);background-repeat:no-repeat}.icon-carousel-prev,.b-carousel-akciya .b-carousel__prev.icon-prev,.b-carousel-gallery .b-carousel__prev.icon-prev{background-position:-145px -638px;height:45px;width:45px}.icon-carousel-prev:hover,.b-carousel-akciya .b-carousel__prev.icon-prev:hover,.b-carousel-gallery .b-carousel__prev.icon-prev:hover,.icon-carousel-prev.carousel-prev-hover,.b-carousel-akciya .carousel-prev-hover.b-carousel__prev.icon-prev,.b-carousel-gallery .carousel-prev-hover.b-carousel__prev.icon-prev{background-position:-141px -485px}.icon-carousel-next,.b-carousel-akciya .b-carousel__next.icon-next,.b-carousel-gallery .b-carousel__next.icon-next{background-position:0 -689px;height:45px;width:45px}.b-gallery{border-bottom:1px solid rgba(200,200,200,0.6);-moz-box-shadow:0 4px 4px rgba(0,0,0,0.3);-webkit-box-shadow:0 4px 4px rgba(0,0,0,0.3);box-shadow:0 4px 4px rgba(0,0,0,0.3)}.b-gallery__header{color:#006599;font-size:44px;padding:60px 0 50px;text-align:center}.b-carousel-gallery{position:relative;overflow:hidden}.b-carousel-gallery .b-carousel__items{width:20000em;position:relative}.b-carousel-gallery .b-carousel__item{float:left;height:340px;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=20);opacity:.2;-moz-transition:opacity .3s ease;-o-transition:opacity .3s ease;-webkit-transition:opacity .3s ease;transition:opacity .3s ease}.b-carousel-gallery .b-carousel__item img{height:340px}.b-carousel-gallery .b-carousel__item.active{filter:progid:DXImageTransform.Microsoft.Alpha(enabled=false);opacity:1}.b-carousel-gallery .b-carousel__controls{position:absolute;width:950px;top:150px;left:50%;-moz-transform:translateX(-50%);-ms-transform:translateX(-50%);-webkit-transform:translateX(-50%);transform:translateX(-50%)}.b-carousel-gallery .b-carousel__prev{float:left;cursor:pointer}.b-carousel-gallery .b-carousel__next{float:right;cursor:pointer}.b-carousel-gallery__nav{    width: 100%!important;position:relative;overflow:hidden;margin:15px auto}.b-carousel-gallery__nav .b-carousel__items{width:20000em;position:relative}.b-carousel-gallery__nav .b-carousel__item{    border-left: 6px solid white;float:left;height:60px;cursor:pointer;filter:progid:DXImageTransform.Microsoft.Alpha(Opacity=20);opacity:1;position:relative}.b-carousel-gallery__nav .b-carousel__item.active,.b-carousel-gallery__nav .b-carousel__item:hover{filter:progid:DXImageTransform.Microsoft.Alpha(enabled=false);opacity:1}.b-carousel-gallery__nav .b-carousel__item.active:after{position:absolute;content:"";top:0;left:0;width:84px;height:54px;border:3px solid #2888cb}.b-carousel-gallery__nav .b-carousel__item img{width:90px;height:67px}.btn-red-inline{display:block;text-align:center;padding:11px 6px 7px;border:2px solid #f5281d;font:14px/1.42857143 Montserrat;color:#f5281d;text-transform:uppercase;-webkit-border-radius:6px;-moz-border-radius:6px;border-radius:6px}.btn-red-inline.btn-red-fill{background-color:#f5281d;border:none;padding:12px 0 10px;color:#fff}.screen2 .container,.screen3 .container,.screen4 .container,.screen5 .container,.screen6 .container,.how-we-works .container,.components-giro .container,.reviews .container,.compare-original .container,.manufacture .container,.service-center .container,.questions .container,footer .container{padding:48px 0;text-align:center;margin:0 auto}.how-we-works .how-steps{padding:12px 0 0}.how-we-works .how-steps > li{margin:12px 0 0;padding:12px;background-color:#fff;position:relative}.how-we-works .how-steps > li > div{position:relative;overflow:hidden}.how-we-works .how-steps > li > div .btn-red-inline{position:relative;z-index:2}.how-we-works .how-steps .tesis-wrap{font:13px/16px Montserrat;text-transform:uppercase;color:#454545;position:relative;z-index:2;margin:12px 0}.how-we-works .how-steps .ico-st{margin:6px auto 0;background:url(../img/sprite.png) no-repeat;width:26px;height:26px;position:relative;z-index:2}.how-we-works .how-steps .step1 .ico-st{background-position:-210px -2px}.how-we-works .how-steps .step2 .ico-st{background-position:-126px -2px}.how-we-works .how-steps .step3 .ico-st{background-position:-154px -2px}.how-we-works .how-steps .step4 .ico-st{background-position:-154px -2px}.how-we-works .how-steps .step5 .ico-st{background-position:-182px -2px}.how-we-works .how-steps .num-st{position:absolute;z-index:1;width:100%;font:64px/64px Montserrat;color:#f0f0f0;text-align:center}@media screen and (min-width: 590px){.how-we-works .how-steps{overflow:hidden;width:96%;margin:0 auto}.how-we-works .how-steps > li{padding:0;float:left;width:46%;margin:18px 2% 0}.how-we-works .how-steps > .with-btn{padding:0}.how-we-works .how-steps > li > div{margin:12% 8% 8%}.how-we-works .container,.service-center .container{width:100%}.how-we-works .script-tesis,.how-we-works .title,.how-we-works .tesis,.service-center .script-tesis,.service-center .title,.service-center .tesis{width:92%;margin:0 auto}.how-we-works .title,.service-center .title{margin:4px auto 0}.how-we-works .how-steps .tesis-wrap{min-height:75px;display:table;width:100%;margin:18px 0 0}.how-we-works .how-steps .tesis-wrap .tesis-st{display:table-cell;vertical-align:middle}}@media screen and (min-width: 640px){.title{font:31px/36px Montserrat;margin:8px 0 0}.tesis{margin:2px 0 0}}@media screen and (min-width: 768px){.how-we-works .how-steps .num-st{font:76px/76px Montserrat}.how-we-works .script-tesis,.how-we-works .title,.how-we-works .tesis,.service-center .script-tesis,.service-center .title,.service-center .tesis{width:94%}.how-we-works .how-steps,.service-center .servcentr-wrap{width:97%}.how-we-works .how-steps > li{margin:5.6% 1.5% 0;padding:0;width:30.3333%}.how-we-works .how-steps > li > div{margin:14% 6% 8%}.how-we-works .how-steps > .with-btn{padding:0}.how-we-works .how-steps .tesis-wrap{margin:30px 0 0}.how-we-works .how-steps{padding:24px 0 21px}}@media screen and (min-width: 1100px){.title{font:34px/36px Montserrat}.how-we-works .how-steps{max-width:inherit;width:100%;text-align:center}.how-we-works .how-steps > .with-btn,.how-we-works .how-steps > li{width:17.4%}.how-we-works .how-steps > li{margin:.7% .7% 0;float:none;display:inline-block}.how-we-works .how-steps > li > div{margin:12% 8% 10%}.how-we-works .how-steps > .with-btn{margin:.7% .7% 0;width:17.4%}.how-we-works .how-steps .tesis-wrap{margin:25px 0 0;min-height:95px}.how-we-works .how-steps .ico-st{margin:21px auto 0}.how-we-works .how-steps .num-st{font:118px/118px Montserrat;top:10px}}@media screen and (min-width: 1200px){.container{max-width:1170px;width:100%}.title{font:31px/39px Montserrat;margin:21px 0 0}.tesis{font:18px/18px Montserrat;margin:12px 0 0}.how-we-works .title{margin:20px auto 0}.how-we-works .tesis{margin:12px auto 0}.how-we-works .how-steps .tesis-wrap{font:14px/19px Montserrat}.how-we-works .how-steps > li{margin:15px;display:block;float:left;width:210px}.how-we-works .how-steps > li > div{margin:43px 22px 32px}.how-we-works .how-steps > .with-btn{width:210px}.how-we-works .how-steps > .with-btn > div{margin:43px 0 32px}.how-we-works .how-steps > .with-btn .tesis-st{padding:0 22px}.how-we-works .how-steps > .step1{margin:16px 15px 0 0}.how-we-works .how-steps > .step5{margin:16px 0 0 15px}}.b-questions__phone{font-size:46px}.icon-sprite,.icon-balcony-b-checked,.b-presentation__type.active .icon-balcony,.icon-balcony-b,.b-presentation__type .icon-balcony,.icon-balcony-l-checked,.b-presentation__type.active .icon-lodjiya,.icon-balcony-l,.b-presentation__type .icon-lodjiya,.icon-balcony-l4-checked,.b-presentation__type.active .icon-lodjiya4,.icon-balcony-l4,.b-presentation__type .icon-lodjiya4,.icon-btn-b,.icon-btn-big,.btn-big,.icon-btn-orang,.btn,.icon-btn-smal_hover,.icon-btn-smal_hoverl,.icon-btn-small,.btn-small,.icon-btn-zv,.btn-zv,.icon-car,.b-region-map .b-region__inform .b-area__block .infa .infa_block .icon .car,.icon-carousel-next,.b-carousel-akciya .b-carousel__next.icon-next,.b-carousel-gallery .b-carousel__next.icon-next,.icon-carousel-prev,.b-carousel-akciya .b-carousel__prev.icon-prev,.b-carousel-gallery .b-carousel__prev.icon-prev,.icon-ceni-phone,.b-ceni .b-form__input__placeholder:before,.icon-clock,.b-region-map .b-region__inform .b-area__block .infa .infa_block .icon .clock,.icon-countdown-btn,.b-countdown-akciya .b-countdown__btn__link,.b-carousel__item .b-countdown__btn__link,.icon-dogovor,.b-region-map .b-region__inform .b-area__block .infa .infa_block .icon .dogovor,.icon-float-pin,.b-float__menu .ic-pin:before,.icon-float-pin_checked,.b-float__menu .ic-pin.active:before,.icon-footer-director,.b-footer__info__director:before,.icon-form-close,.b-form__close,.b-oldform_ajax .b-oldform__closer,.icon-form-kalk-w_active,.icon-form-kalk,.b-oldform__menu .form-kalk:after,.icon-form-map-w_active,.icon-form-map,.b-oldform__menu .form-map:after,.icon-form-phone-w_active,.icon-form-phone,.b-oldform__menu .form-phone:after,.icon-form-ruler-w_active,.icon-form-ruler,.b-oldform__menu .form-ruler:after,.icon-header-balconi-checked,.icon_header_balconi.active:before,.icon_header_balconi.active:hover:before,.icon-header-balconi,.icon_header_balconi:before,.icon-header-clock,.icon_header_clock:before,.icon-header-dveri-checked,.icon_header_dveri.active:before,.icon_header_dveri.active:hover:before,.icon-header-dveri,.icon_header_dveri:before,.icon-header-kotedji-checked,.icon_header_kotedji.active:before,.icon_header_kotedji.active:hover:before,.icon-header-kotedji,.icon_header_kotedji:before,.icon-header-okna-checked,.icon_header_okna.active:before,.icon_header_okna.active:hover:before,.icon-header-okna,.icon_header_okna:before,.icon-info-ugl,.b-region-map .b-region__map_info:before,.icon-otzivi-showmore,.b-profiles__tabs .b-tabs__controlls__prev,.b-profiles__tabs .b-tabs__controlls__next,.b-otzivi__showmore .showmore__link:before,.icon-profiles-dolgo,.icon-pr-dolgo:before,.icon-profiles-econom,.icon-pr-econom:before,.icon-profiles-rehau,.b-profiles__tabs .b-tabs__block__item__img.icon-rehau:before,.icon-profiles-teplo,.icon-pr-teplo:before,.icon-profiles-zvuk,.icon-pr-zvuk:before,.icon-questions-phone,.b-questions__phone:before,.icon-seo-grand,.b-footer__seo-grand,.icon-svyaz-calc-black,.icon-svyaz-calc,.b-svyaz__form__menu .ic-calc:before,.b-float__menu .ic-calc:before,.icon-svyaz-calc_checked,.b-svyaz__form__menu .form__menu__item.active .ic-calc:before,.b-float__menu .ic-calc.active:before,.icon-svyaz-line-black,.icon-svyaz-line,.b-svyaz__form__menu .ic-line:before,.b-float__menu .ic-line:before,.icon-svyaz-line_checked,.b-svyaz__form__menu .form__menu__item.active .ic-line:before,.b-float__menu .ic-line.active:before,.icon-svyaz-phone-black,.icon-svyaz-phone,.b-svyaz__form__menu .ic-phone:before,.b-float__menu .ic-phone:before,.icon-svyaz-phone_checked,.b-svyaz__form__menu .form__menu__item.active .ic-phone:before,.b-float__menu .ic-phone.active:before,.icon-truba,.b-float__menu .b-header__contacts__phone:before,.b-fancy-form .b-form form .b-header__contacts__phone:before,.icon-windows-2-1,.b-presentation__type.active .icon-2st,.icon-windows-2-2,.b-presentation__types .icon-2st,.icon-windows-3-1,.b-presentation__type.active .icon-3st,.icon-windows-3-2,.b-presentation__types .icon-3st,.icon-windows-b-1,.b-presentation__type.active .icon-balc,.icon-windows-b-2,.b-presentation__types .icon-balc,.icon-windows-factory,.icon-windows-hand,.icon-windows-medal,.icon-windows-montaj,.b-presentation__advantage__skew .icon-adv-montaj,.icon-windows-percents,.b-presentation__advantage__skew .icon-percents,.icon-windows-rehau,.b-presentation__advantage__skew .icon-rehau,.icon-zamer,.b-region-map .b-region__inform .b-area__block .infa .infa_block .icon .zamer{background-image:url(../img/icon-s8a56b42951.png);background-repeat:no-repeat;content:''}.b-questions__phone:before{background-position:0 -530px;height:53px;width:53px}.b-questions__text__header{font-size:46px;margin-bottom:25px}.b-questions__text__body{font-size:30px;line-height:1.2;margin-left:30px;position:relative}input[type="text"],input[type="search"],input[type="password"],input[type="email"],textarea{width:80%}footer{background:#f5f5f5}.contact{width:400px;height:435px;position:absolute;background:#fff;margin:40px 0 0 20%;padding:0 20px;color:#000;text-align:center;z-index:100}.contact .head{font-size:36px;text-transform:uppercase;font-weight:600;color:#898989;padding:25px 0 23px;margin:0 0 15px;border-bottom:2px solid #a9a9a9}.contact .phone{padding-left:70px;background:url(../img/cPhone.png) no-repeat 15px center;font-size:25px;font-weight:300;text-align:left}.contact .email{padding-left:70px;background:url(../img/cEmail.png) no-repeat 15px center;font-size:20px;font-weight:300;color:#000;text-decoration:none;line-height:54px;text-align:left;display:inherit}.contact .adress{padding-left:70px;background:url(../img/cAdress.png) no-repeat 15px center;font-size:23px;line-height:26px;text-align:left;font-weight:300}.contact .butt{width:80%}.jcarousel-wrapper{margin:20px auto;position:relative;border:10px solid #fff;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;width:650px}.jcarousel{position:relative;overflow:hidden;width:100%}.jcarousel ul{width:20000em;position:relative;list-style:none;margin:0;padding:0}.jcarousel li{width:200px;float:left;border:1px solid #fff;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}.jcarousel img{display:block;max-width:100%;height:auto!important}.jcarousel-control-prev,.jcarousel-control-next{position:absolute;top:50%;margin-top:-15px;width:30px;height:30px;text-align:center;background:#4E443C;color:#fff;text-decoration:none;text-shadow:0 0 1px #000;font:24px/27px Arial,sans-serif;-webkit-border-radius:30px;-moz-border-radius:30px;border-radius:30px;-webkit-box-shadow:0 0 4px #F0EFE7;-moz-box-shadow:0 0 4px #F0EFE7;box-shadow:0 0 4px #F0EFE7}.jcarousel-control-prev{left:15px}.jcarousel-control-next{right:15px}.jcarousel-pagination{position:absolute;bottom:-40px;left:50%;-webkit-transform:translate(-50%,0);-ms-transform:translate(-50%,0);transform:translate(-50%,0);margin:0}.jcarousel-pagination a{text-decoration:none;display:inline-block;font-size:11px;height:10px;width:10px;line-height:10px;background:#fff;color:#4E443C;border-radius:10px;text-indent:-9999px;margin-right:7px;-webkit-box-shadow:0 0 2px #4E443C;-moz-box-shadow:0 0 2px #4E443C;box-shadow:0 0 2px #4E443C}.jcarousel-pagination a.active{background:#4E443C;color:#fff;opacity:1;-webkit-box-shadow:0 0 2px #F0EFE7;-moz-box-shadow:0 0 2px #F0EFE7;box-shadow:0 0 2px #F0EFE7}.wrapper{width:80%;margin:auto}.scroll_full *{box-sizing:border-box;position:relative}.scroll_full{width:100%;position:relative}.scroll_container{width:80%;margin:auto;background:#fff;overflow:hidden}.scroll_content{position:relative;background:blue;left:0;transition:all .3s}.next,.prev{position:absolute;top:50%}.prev{left:10px}.next{right:10px}.box{width:170px;float:left;margin:0 5px}.box img{height:150px}.slider-desc{margin-top:40px;font-size:28px;font-weight:600;text-align:center}.slider p{text-align:center;font-size:18px}.slider{margin-bottom:50px}.shema .butt{width:100%;font-size:16px;text-align:center;line-height:42px;border-radius:25px}.modal-header{background:orange;color:#fff}    text-align: center;
+}
+
+.modal-body{
+    padding: 25px;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+    color: #f76107;
+}
+
+.s1 ul{
+    margin-bottom: 220px;
+}
+
+.img-circle{
+    height: 120px;
+}
+
+.clear{
+    clear: both;
+}
+
+
+@media screen and (max-width: 480px){
+.title {
+    font: 28px/32px Montserrat;
+    margin: 8px 0 0;
+}
+.contact .email {
+    font-size: 14px!important;
+}
+.navbar-left a{padding:0}
+.navbar-left {display:block!important;    float: left;
+    margin: 0;
+    width: 50%;
+    text-align: center;} 
+.logo{ 
+    width: 30%;
+    margin: 12px 0 0px 10px;
+}
+
+}
+.title11{
+margin-bottom: 18px;
+
+
+
+}
+ @media screen and (max-width: 360px){ 
+	.logo{ 
+    width: 25%;
+    margin: 12px 0 0px 10px;
+}
+.navbar-left {
+font-size:11px;
+    width: 48%;}
+	
+}
+.tab-info p{
+ text-indent: 10px;
+}
+@media screen and (max-width: 320px){
+.bold { 
+    font: 700 7px/9px Montserrat;
+}}
